@@ -1,0 +1,32 @@
+.search-bar-container {
+    height: 40px;
+    background: #bc3b69;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo-container img {
+    height: 28px;
+    padding: 12px 10px 8px 0px;
+  }
+  
+  .input-search {
+    float: left;
+    padding: 6px 10px;
+    width: 550px;
+    cursor: pointer;
+    border: none;
+    font-family: "Raleway", sans-serif;
+    border-radius: 2px;
+    border: 1px solid #eeeeee;
+  }
+  
+  .search-btn {
+    position: relative;
+    right: 34px;
+    border: none;
+    color: grey;
+    padding: 7px 10px;
+    background: #eeeeee;
+  }
